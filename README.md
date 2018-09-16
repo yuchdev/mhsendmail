@@ -42,6 +42,7 @@ sendmail_path = /usr/local/bin/mhsendmail
 ### Usage-ready example
 
 See `sendmail.sh` for the example of usage Mhsendmail sending a real email.
+Real-life use-case is testing email notifications with Mailhog SMTP mock service.
 
 ### Licence
 
